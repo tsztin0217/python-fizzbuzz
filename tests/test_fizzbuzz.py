@@ -1,4 +1,4 @@
-from interviews.fizzbuzz import fizzbuzz
+from app.fizzbuzz import fizzbuzz
 
 def test_works_with_1():
     # Arrange
